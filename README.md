@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WaseeKhan
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently learning Django and Spring boot
 - 📫 How to reach me: mdvaseem014@gmail.com
 
 <!---
