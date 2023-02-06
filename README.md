@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WaseeKhan
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Java and Spring boot, Microservices
-- 📫 How to reach me: mdvaseem014@gmail.com
+<!--  - 📫 How to reach me: mdvaseem014@gmail.com --->
 
 <!---
 WaseeKhan/WaseeKhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
