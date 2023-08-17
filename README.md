@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WaseeKhan.
 - 👀 I’m interested in Coding.
-- 🌱 I’m interested in learning new Techonlogies.
+- 🌱 I’m interested in learning new technologies.
 <!--  - 📫 How to reach me: mdvaseem014@gmail.com --->
 
 <!---
