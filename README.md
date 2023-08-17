@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @WaseeKhan
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Java and Spring boot, Microservices
+- 👋 Hi, I’m @WaseeKhan.
+- 👀 I’m interested in Coding.
+- 🌱 I’m interested in learning new Techonlogies.
 <!--  - 📫 How to reach me: mdvaseem014@gmail.com --->
 
 <!---
