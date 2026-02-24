@@ -1,4 +1,4 @@
-# Hi there, I'm Wasee Khan 👋
+# Hi there, I'm Waseem Khan 👋
 
 👨‍💻 **Software Engineer | Backend Developer**
 
