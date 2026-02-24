@@ -21,6 +21,10 @@ I'm a passionate Software Engineer who loves building scalable and efficient bac
 
 ### 🌟 Featured Projects
 
+- [ClearStream](https://github.com/WaseeKhan/ClearStreamBatchSettlementEngine)  
+  *A CTS-based End-of-Day (EOD) and Beginning-of-Day (BOD) batch settlement engine that automates cheque clearing, reconciliation, and financial closure using scheduled jobs and   multithreaded processing.*
+
+
 - [NexusFlow](https://github.com/WaseeKhan/NexusFlow)  
   *A CRM fullstack CRM Application*
 
