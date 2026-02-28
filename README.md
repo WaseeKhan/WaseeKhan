@@ -21,8 +21,8 @@ I'm a passionate Software Engineer who loves building scalable and efficient bac
 
 ### 🌟 Featured Projects
 
-- [ClearStream](https://github.com/WaseeKhan/ClearStreamBatchSettlementEngine)  
-  *A CTS-based End-of-Day (EOD) and Beginning-of-Day (BOD) batch settlement engine that automates cheque clearing, reconciliation, and financial closure using scheduled jobs and   multithreaded processing.*
+- [HisaabLite](https://github.com/WaseeKhan/HisaabLite)  
+  *HisaabLite is a multi-tenant retail billing and inventory management SaaS built with Spring Boot.*
 
 
 - [NexusFlow](https://github.com/WaseeKhan/NexusFlow)  
