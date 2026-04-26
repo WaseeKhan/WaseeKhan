@@ -22,7 +22,7 @@ I'm a passionate Software Engineer who loves building scalable and efficient bac
 ### 🌟 Featured Projects
 
 - [Expygen](https://github.com/WaseeKhan/Expygen)  
-  *HisaabLite is a multi-tenant retail billing and inventory management SaaS built with Spring Boot.*
+  *Expygen - Simplify Pharmacy | A retail billing , POS and inventory management SaaS built with Spring Boot.*
 
 
 - [NexusFlow](https://github.com/WaseeKhan/NexusFlow)  
