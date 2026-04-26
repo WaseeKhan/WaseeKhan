@@ -12,16 +12,16 @@ I'm a passionate Software Engineer who loves building scalable and efficient bac
 
 ### 🛠️ Tech Stack
 
-- **Languages:** Java, SQL, Python
-- **Frameworks:** SpringBoot
-- **APIs:** RESTful API Development
+- **Languages:** Java, SQL, HTML, CSS, JS
+- **Frameworks:** SpringBoot, Thymeleaf
+- **APIs:** Rest API Development
 - **OS:** Offcourse Linux
 
 ---
 
 ### 🌟 Featured Projects
 
-- [HisaabLite](https://github.com/WaseeKhan/HisaabLite)  
+- [Expygen](https://github.com/WaseeKhan/Expygen)  
   *HisaabLite is a multi-tenant retail billing and inventory management SaaS built with Spring Boot.*
 
 
